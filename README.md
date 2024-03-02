@@ -1,2 +1,2 @@
 # SYSU-Distributed-Systems
-SYSU分布式系统
+SYSU分布式系统课程项目
